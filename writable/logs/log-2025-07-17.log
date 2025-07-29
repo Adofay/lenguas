@@ -1,0 +1,217 @@
+CRITICAL - 2025-07-17 02:45:13 --> ErrorException: Undefined variable $evento
+in APPPATH\Views\lex\lista.php on line 321.
+ 1 APPPATH\Views\lex\lista.php(321): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $evento', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 321)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 02:48:05 --> ErrorException: Undefined variable $id_evento
+in APPPATH\Views\lex\lista.php on line 321.
+ 1 APPPATH\Views\lex\lista.php(321): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_evento', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 321)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 02:48:38 --> ErrorException: Trying to access array offset on value of type int
+in APPPATH\Views\lex\lista.php on line 321.
+ 1 APPPATH\Views\lex\lista.php(321): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 321)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 02:49:19 --> ErrorException: Trying to access array offset on value of type int
+in APPPATH\Views\lex\lista.php on line 321.
+ 1 APPPATH\Views\lex\lista.php(321): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 321)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 14:11:27 --> ErrorException: Undefined array key "id_actividad"
+in APPPATH\Views\lex\lista.php on line 318.
+ 1 APPPATH\Views\lex\lista.php(318): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_actividad"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 318)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-17 14:12:17 --> mysqli_sql_exception: Unknown column 'tq.id_actividad' in 'field list' in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT \r\n      ...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT \r\n      ...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT \r\n      ...')
+#3 C:\xampp\htdocs\cruds\app\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT \r\n      ...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2025-07-17 14:12:17 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'tq.id_actividad' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT 
+                t1.id_grupo, tq.id_actividad,
+                c1.nomdia, t2.h_inicio, t2.h_termino, t2.fecha_inicio, t2.fecha_termino, 
+                t3.nombre as espacio, 
+                t4.mod_nombre, 
+                t5.grp_clave,    
+                t7.comp_nombre, 
+                t8.nombre AS periodo, 
+                t10.prf_ap_paterno, t10.prf_ap_materno, t10.prf_nombre
+            FROM 
+                actividades t1
+                LEFT JOIN eventos t2 USING (id_actividad)
+                LEFT JOIN espacios t3 USING (id_espacio)
+                JOIN modulos t4 USING (cve_modulo, id_area)
+                LEFT JOIN grupos t5 USING (id_grupo, id_area)
+                JOIN areas t6 USING (id_area)
+                JOIN componentes t7 USING (id_componente, id_area)
+                JOIN periodos t8 USING (id_periodo, tipo)
+                LEFT JOIN profesores_eventos t9 USING (id_evento)
+                LEFT JOIN profesores t10 USING (rfc)
+                LEFT JOIN dias c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 and t8.tipo = \'SEM\'')
+ 2 APPPATH\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 14:12:26 --> ErrorException: Undefined array key "id_evento"
+in APPPATH\Views\lex\lista.php on line 319.
+ 1 APPPATH\Views\lex\lista.php(319): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_evento"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 319)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 14:12:37 --> ErrorException: Undefined array key "id_evento"
+in APPPATH\Views\lex\lista.php on line 319.
+ 1 APPPATH\Views\lex\lista.php(319): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_evento"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 319)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 14:12:38 --> ErrorException: Undefined array key "id_evento"
+in APPPATH\Views\lex\lista.php on line 319.
+ 1 APPPATH\Views\lex\lista.php(319): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_evento"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 319)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 14:12:39 --> ErrorException: Undefined array key "id_evento"
+in APPPATH\Views\lex\lista.php on line 319.
+ 1 APPPATH\Views\lex\lista.php(319): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_evento"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 319)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 14:12:39 --> ErrorException: Undefined array key "id_evento"
+in APPPATH\Views\lex\lista.php on line 319.
+ 1 APPPATH\Views\lex\lista.php(319): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_evento"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 319)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 15:05:58 --> ErrorException: Undefined variable $modulos
+in APPPATH\Views\lex\lista.php on line 62.
+ 1 APPPATH\Views\lex\lista.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $modulos', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 62)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(239): view('lex/lista')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->editar('35')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 15:08:13 --> ErrorException: Undefined array key "$id_evento"
+in APPPATH\Views\lex\lista.php on line 114.
+ 1 APPPATH\Views\lex\lista.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "$id_evento"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 114)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(252): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->editar('35')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 15:14:07 --> ErrorException: Undefined array key "$id_evento"
+in APPPATH\Views\lex\lista.php on line 117.
+ 1 APPPATH\Views\lex\lista.php(117): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "$id_evento"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 117)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(252): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->editar('21')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 15:19:17 --> ErrorException: Undefined variable $fechini
+in APPPATH\Views\lex\lista.php on line 143.
+ 1 APPPATH\Views\lex\lista.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fechini', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 143)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 15:19:17 --> ErrorException: Undefined variable $fechini
+in APPPATH\Views\lex\lista.php on line 143.
+ 1 APPPATH\Views\lex\lista.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fechini', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 143)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-17 15:19:17 --> ErrorException: Undefined variable $fechini
+in APPPATH\Views\lex\lista.php on line 143.
+ 1 APPPATH\Views\lex\lista.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $fechini', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 143)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

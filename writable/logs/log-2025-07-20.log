@@ -1,0 +1,11 @@
+CRITICAL - 2025-07-20 02:29:48 --> ErrorException: Undefined variable $evento
+in APPPATH\Views\lex\lista.php on line 160.
+ 1 APPPATH\Views\lex\lista.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $evento', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 160)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

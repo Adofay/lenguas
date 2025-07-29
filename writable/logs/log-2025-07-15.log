@@ -1,0 +1,411 @@
+CRITICAL - 2025-07-15 03:14:14 --> ErrorException: Undefined variable $reporte
+in APPPATH\Views\lex\lista.php on line 306.
+ 1 APPPATH\Views\lex\lista.php(306): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reporte', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 306)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(84): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('27')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:15:44 --> ErrorException: Undefined variable $reporte
+in APPPATH\Views\lex\lista.php on line 306.
+ 1 APPPATH\Views\lex\lista.php(306): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reporte', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 306)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(84): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('27')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:17:58 --> ErrorException: Undefined variable $reporte
+in APPPATH\Views\lex\lista.php on line 289.
+ 1 APPPATH\Views\lex\lista.php(289): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $reporte', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 289)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(84): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('27')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:19:13 --> ErrorException: Undefined variable $db
+in APPPATH\Views\lex\lista.php on line 289.
+ 1 APPPATH\Views\lex\lista.php(289): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 289)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(84): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('27')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:19:14 --> ErrorException: Undefined variable $db
+in APPPATH\Views\lex\lista.php on line 289.
+ 1 APPPATH\Views\lex\lista.php(289): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 289)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(84): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('27')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:19:14 --> ErrorException: Undefined variable $db
+in APPPATH\Views\lex\lista.php on line 289.
+ 1 APPPATH\Views\lex\lista.php(289): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 289)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(84): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('27')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:20:35 --> ErrorException: Undefined variable $db
+in APPPATH\Views\lex\lista.php on line 268.
+ 1 APPPATH\Views\lex\lista.php(268): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 268)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(84): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('27')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:20:35 --> ErrorException: Undefined variable $db
+in APPPATH\Views\lex\lista.php on line 268.
+ 1 APPPATH\Views\lex\lista.php(268): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 268)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(84): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('27')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:20:36 --> ErrorException: Undefined variable $db
+in APPPATH\Views\lex\lista.php on line 268.
+ 1 APPPATH\Views\lex\lista.php(268): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 268)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(84): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('27')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:21:16 --> ErrorException: Undefined variable $db
+in APPPATH\Views\lex\lista.php on line 268.
+ 1 APPPATH\Views\lex\lista.php(268): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 268)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(84): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('27')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:49:16 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Views\lex\lista.php on line 287.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 4 APPPATH\Controllers\LexController.php(29): view('lex/lista', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 6 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:49:16 --> [Caused by] ErrorException: Undefined variable $datos
+in APPPATH\Views\lex\lista.php on line 287.
+ 1 APPPATH\Views\lex\lista.php(287): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 287)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(29): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:49:16 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Views\lex\lista.php on line 287.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 4 APPPATH\Controllers\LexController.php(29): view('lex/lista', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 6 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:49:16 --> [Caused by] ErrorException: Undefined variable $datos
+in APPPATH\Views\lex\lista.php on line 287.
+ 1 APPPATH\Views\lex\lista.php(287): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 287)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(29): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:49:16 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Views\lex\lista.php on line 287.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 4 APPPATH\Controllers\LexController.php(29): view('lex/lista', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 6 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:49:16 --> [Caused by] ErrorException: Undefined variable $datos
+in APPPATH\Views\lex\lista.php on line 287.
+ 1 APPPATH\Views\lex\lista.php(287): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 287)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(29): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:50:33 --> ErrorException: Array to string conversion
+in APPPATH\Controllers\LexController.php on line 37.
+ 1 APPPATH\Controllers\LexController.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 03:50:43 --> ErrorException: Array to string conversion
+in APPPATH\Controllers\LexController.php on line 37.
+ 1 APPPATH\Controllers\LexController.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-15 03:59:25 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c1 USING (dia) LEFT JOIN espacios
+            where t1.id_area = 69 and t8.i...' at line 21 in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT \r\n      ...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT \r\n      ...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT \r\n      ...')
+#3 C:\xampp\htdocs\cruds\app\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT \r\n      ...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2025-07-15 03:59:25 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c1 USING (dia) LEFT JOIN espacios
+            where t1.id_area = 69 and t8.i...' at line 21
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT 
+                t1.id_grupo, 
+                c1.nomdia, t2.h_inicio, t2.h_termino, t2.fecha_inicio, t2.fecha_termino, 
+                t3.nombre as espacio, 
+                t4.mod_nombre, 
+                t5.grp_clave,    
+                t7.comp_nombre, 
+                t8.nombre AS periodo, 
+                t10.prf_ap_paterno, t10.prf_ap_materno, t10.prf_nombre
+            FROM 
+                actividades t1
+                LEFT JOIN eventos t2 USING (id_actividad)
+                LEFT JOIN espacios t3 USING (id_espacio)
+                JOIN modulos t4 USING (cve_modulo, id_area)
+                LEFT JOIN grupos t5 USING (id_grupo, id_area)
+                JOIN areas t6 USING (id_area)
+                JOIN componentes t7 USING (id_componente, id_area)
+                JOIN periodos t8 USING (id_periodo, tipo)
+                LEFT JOIN profesores_eventos t9 USING (id_evento)
+                LEFT JOIN profesores t10 USING (rfc)
+                c1 USING (dia) LEFT JOIN espacios
+            where t1.id_area = 69 and t8.id_periodo = 20261 and t8.tipo = \'SEM\'')
+ 2 APPPATH\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-15 03:59:48 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 ...' at line 21 in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT \r\n      ...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT \r\n      ...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT \r\n      ...')
+#3 C:\xampp\htdocs\cruds\app\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT \r\n      ...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2025-07-15 03:59:48 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 ...' at line 21
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT 
+                t1.id_grupo, 
+                c1.nomdia, t2.h_inicio, t2.h_termino, t2.fecha_inicio, t2.fecha_termino, 
+                t3.nombre as espacio, 
+                t4.mod_nombre, 
+                t5.grp_clave,    
+                t7.comp_nombre, 
+                t8.nombre AS periodo, 
+                t10.prf_ap_paterno, t10.prf_ap_materno, t10.prf_nombre
+            FROM 
+                actividades t1
+                LEFT JOIN eventos t2 USING (id_actividad)
+                LEFT JOIN espacios t3 USING (id_espacio)
+                JOIN modulos t4 USING (cve_modulo, id_area)
+                LEFT JOIN grupos t5 USING (id_grupo, id_area)
+                JOIN areas t6 USING (id_area)
+                JOIN componentes t7 USING (id_componente, id_area)
+                JOIN periodos t8 USING (id_periodo, tipo)
+                LEFT JOIN profesores_eventos t9 USING (id_evento)
+                LEFT JOIN profesores t10 USING (rfc)
+                c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 and t8.tipo = \'SEM\'')
+ 2 APPPATH\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-15 03:59:49 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 ...' at line 21 in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT \r\n      ...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT \r\n      ...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT \r\n      ...')
+#3 C:\xampp\htdocs\cruds\app\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT \r\n      ...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2025-07-15 03:59:49 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 ...' at line 21
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT 
+                t1.id_grupo, 
+                c1.nomdia, t2.h_inicio, t2.h_termino, t2.fecha_inicio, t2.fecha_termino, 
+                t3.nombre as espacio, 
+                t4.mod_nombre, 
+                t5.grp_clave,    
+                t7.comp_nombre, 
+                t8.nombre AS periodo, 
+                t10.prf_ap_paterno, t10.prf_ap_materno, t10.prf_nombre
+            FROM 
+                actividades t1
+                LEFT JOIN eventos t2 USING (id_actividad)
+                LEFT JOIN espacios t3 USING (id_espacio)
+                JOIN modulos t4 USING (cve_modulo, id_area)
+                LEFT JOIN grupos t5 USING (id_grupo, id_area)
+                JOIN areas t6 USING (id_area)
+                JOIN componentes t7 USING (id_componente, id_area)
+                JOIN periodos t8 USING (id_periodo, tipo)
+                LEFT JOIN profesores_eventos t9 USING (id_evento)
+                LEFT JOIN profesores t10 USING (rfc)
+                c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 and t8.tipo = \'SEM\'')
+ 2 APPPATH\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-15 03:59:51 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 ...' at line 21 in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT \r\n      ...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT \r\n      ...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT \r\n      ...')
+#3 C:\xampp\htdocs\cruds\app\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT \r\n      ...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2025-07-15 03:59:51 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 ...' at line 21
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT 
+                t1.id_grupo, 
+                c1.nomdia, t2.h_inicio, t2.h_termino, t2.fecha_inicio, t2.fecha_termino, 
+                t3.nombre as espacio, 
+                t4.mod_nombre, 
+                t5.grp_clave,    
+                t7.comp_nombre, 
+                t8.nombre AS periodo, 
+                t10.prf_ap_paterno, t10.prf_ap_materno, t10.prf_nombre
+            FROM 
+                actividades t1
+                LEFT JOIN eventos t2 USING (id_actividad)
+                LEFT JOIN espacios t3 USING (id_espacio)
+                JOIN modulos t4 USING (cve_modulo, id_area)
+                LEFT JOIN grupos t5 USING (id_grupo, id_area)
+                JOIN areas t6 USING (id_area)
+                JOIN componentes t7 USING (id_componente, id_area)
+                JOIN periodos t8 USING (id_periodo, tipo)
+                LEFT JOIN profesores_eventos t9 USING (id_evento)
+                LEFT JOIN profesores t10 USING (rfc)
+                c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 and t8.tipo = \'SEM\'')
+ 2 APPPATH\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-15 04:00:13 --> mysqli_sql_exception: Table 'test.c1' doesn't exist in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT \r\n      ...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT \r\n      ...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT \r\n      ...')
+#3 C:\xampp\htdocs\cruds\app\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT \r\n      ...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2025-07-15 04:00:13 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'test.c1' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\EventosModel.php(53): CodeIgniter\Database\BaseConnection->query('SELECT 
+                t1.id_grupo, 
+                c1.nomdia, t2.h_inicio, t2.h_termino, t2.fecha_inicio, t2.fecha_termino, 
+                t3.nombre as espacio, 
+                t4.mod_nombre, 
+                t5.grp_clave,    
+                t7.comp_nombre, 
+                t8.nombre AS periodo, 
+                t10.prf_ap_paterno, t10.prf_ap_materno, t10.prf_nombre
+            FROM 
+                actividades t1
+                LEFT JOIN eventos t2 USING (id_actividad)
+                LEFT JOIN espacios t3 USING (id_espacio)
+                JOIN modulos t4 USING (cve_modulo, id_area)
+                LEFT JOIN grupos t5 USING (id_grupo, id_area)
+                JOIN areas t6 USING (id_area)
+                JOIN componentes t7 USING (id_componente, id_area)
+                JOIN periodos t8 USING (id_periodo, tipo)
+                LEFT JOIN profesores_eventos t9 USING (id_evento)
+                LEFT JOIN profesores t10 USING (rfc)
+                LEFT JOIN c1 USING (dia) 
+            where t1.id_area = 69 and t8.id_periodo = 20261 and t8.tipo = \'SEM\'')
+ 2 APPPATH\Controllers\LexController.php(22): App\Models\EventosModel->getreporte()
+ 3 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 4 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-15 04:01:42 --> ErrorException: Undefined array key "dia"
+in APPPATH\Views\lex\lista.php on line 291.
+ 1 APPPATH\Views\lex\lista.php(291): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "dia"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 291)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(30): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,322 @@
+CRITICAL - 2025-07-12 00:53:58 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 01:00:21 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(163): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 01:20:50 --> ParseError: Unclosed '{' on line 116
+in APPPATH\Controllers\LexController.php on line 145.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\LexController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\LexController')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\LexController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 01:20:51 --> ParseError: Unclosed '{' on line 116
+in APPPATH\Controllers\LexController.php on line 145.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\LexController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\LexController')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\LexController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 01:21:05 --> ParseError: Unclosed '{' on line 94
+in APPPATH\Controllers\LexController.php on line 145.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\LexController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\LexController')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\LexController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 01:23:15 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(131): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:47:30 --> ErrorException: Undefined array key "h_inicio"
+in APPPATH\Views\lex\lista.php on line 248.
+ 1 APPPATH\Views\lex\lista.php(248): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "h_inicio"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 248)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(83): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('22')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:47:40 --> ErrorException: Undefined array key "h_inicio"
+in APPPATH\Views\lex\lista.php on line 248.
+ 1 APPPATH\Views\lex\lista.php(248): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "h_inicio"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 248)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(28): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:47:42 --> ErrorException: Undefined array key "h_inicio"
+in APPPATH\Views\lex\lista.php on line 248.
+ 1 APPPATH\Views\lex\lista.php(248): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "h_inicio"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 248)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(28): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:47:42 --> ErrorException: Undefined array key "h_inicio"
+in APPPATH\Views\lex\lista.php on line 248.
+ 1 APPPATH\Views\lex\lista.php(248): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "h_inicio"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 248)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(83): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('22')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:47:44 --> ErrorException: Undefined array key "h_inicio"
+in APPPATH\Views\lex\lista.php on line 248.
+ 1 APPPATH\Views\lex\lista.php(248): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "h_inicio"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 248)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(83): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('22')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:47:45 --> ErrorException: Undefined array key "h_inicio"
+in APPPATH\Views\lex\lista.php on line 248.
+ 1 APPPATH\Views\lex\lista.php(248): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "h_inicio"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 248)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(83): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('22')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:47:45 --> ErrorException: Undefined array key "h_inicio"
+in APPPATH\Views\lex\lista.php on line 248.
+ 1 APPPATH\Views\lex\lista.php(248): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "h_inicio"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 248)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(83): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('22')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:47:46 --> ErrorException: Undefined array key "h_inicio"
+in APPPATH\Views\lex\lista.php on line 248.
+ 1 APPPATH\Views\lex\lista.php(248): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "h_inicio"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 248)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(83): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('22')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:53:24 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:57:27 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:57:32 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 02:57:41 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 03:00:26 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 03:00:44 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 03:06:45 --> ErrorException: Undefined array key "h_inicio"
+in APPPATH\Views\lex\lista.php on line 228.
+ 1 APPPATH\Views\lex\lista.php(228): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "h_inicio"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 228)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(83): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2('22')
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 03:06:53 --> ErrorException: Undefined array key "h_inicio"
+in APPPATH\Views\lex\lista.php on line 228.
+ 1 APPPATH\Views\lex\lista.php(228): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "h_inicio"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 228)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(28): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 03:25:04 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 03:31:11 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-12 03:33:24 --> mysqli_sql_exception: Column 'fecha_carga' cannot be null in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ev...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev...')
+#3 C:\xampp\htdocs\cruds\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev...', Array, false)
+#4 C:\xampp\htdocs\cruds\system\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\cruds\system\BaseModel.php(805): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\cruds\system\Model.php(749): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(121): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+#9 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#10 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2025-07-12 03:33:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'fecha_carga' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `eventos` (`id_actividad`, `id_espacio`, `dia`, `h_inicio`, `h_termino`, `fecha_inicio`, `fecha_termino`, `fecha_carga`) VALUES (:id_actividad:, :id_espacio:, :dia:, :h_inicio:, :h_termino:, :fecha_inicio:, :fecha_termino:, :fecha_carga:)', [...], false)
+ 2 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\LexController.php(121): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 03:34:40 --> Error: Call to undefined function App\Controllers\now()
+in APPPATH\Controllers\LexController.php on line 116.
+ 1 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 2 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-12 03:55:57 --> mysqli_sql_exception: Column 'fecha_inicio' cannot be null in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ev...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev...')
+#3 C:\xampp\htdocs\cruds\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev...', Array, false)
+#4 C:\xampp\htdocs\cruds\system\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\cruds\system\BaseModel.php(805): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\cruds\system\Model.php(749): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(121): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+#9 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#10 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2025-07-12 03:55:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'fecha_inicio' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `eventos` (`id_actividad`, `id_espacio`, `dia`, `h_inicio`, `h_termino`, `fecha_inicio`, `fecha_termino`, `fecha_carga`) VALUES (:id_actividad:, :id_espacio:, :dia:, :h_inicio:, :h_termino:, :fecha_inicio:, :fecha_termino:, :fecha_carga:)', [...], false)
+ 2 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\LexController.php(121): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 04:00:57 --> ErrorException: Undefined variable $data
+in APPPATH\Controllers\LexController.php on line 119.
+ 1 APPPATH\Controllers\LexController.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php', 119)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 04:27:52 --> ErrorException: Undefined array key "$id_espacio_2"
+in APPPATH\Controllers\LexController.php on line 130.
+ 1 APPPATH\Controllers\LexController.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "$id_espacio_2"', 'C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php', 130)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 04:30:34 --> ErrorException: Undefined array key "$id_espacio_2"
+in APPPATH\Controllers\LexController.php on line 130.
+ 1 APPPATH\Controllers\LexController.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "$id_espacio_2"', 'C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php', 130)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-12 04:30:46 --> ErrorException: Undefined array key "$id_espacio_2"
+in APPPATH\Controllers\LexController.php on line 130.
+ 1 APPPATH\Controllers\LexController.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "$id_espacio_2"', 'C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php', 130)
+ 2 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 3 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

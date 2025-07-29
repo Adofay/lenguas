@@ -1,0 +1,1077 @@
+CRITICAL - 2025-07-10 04:17:32 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:32 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:32 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:33 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:33 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:33 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:33 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:33 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:33 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:34 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:34 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:34 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:34 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:34 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:34 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:34 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:35 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:35 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:35 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:35 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 04:17:36 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:17:48 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:17:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:20:26 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:20:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:21:31 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:21:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:21:32 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:21:32 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:21:32 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:21:32 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:21:40 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:21:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:21:43 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:21:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:21:44 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:21:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:21:44 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:21:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:21:45 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:21:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:21:45 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:21:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:21:45 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:21:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:26:57 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:26:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:27:04 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:27:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:27:05 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:27:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:27:06 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:27:06 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:27:06 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:27:06 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:27:07 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:27:07 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 04:27:07 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#4 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#7 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\cruds\app\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo...')
+#3 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+#4 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->list()
+#5 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#6 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-07-10 04:27:07 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\LexModel.php(23): CodeIgniter\Database\BaseConnection->query('SELECT id_grupo, grp_clave FROM grupos where id_area = 69;')
+ 3 APPPATH\Controllers\LexController.php(23): App\Models\LexModel->getgrupos()
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 05:02:21 --> mysqli_sql_exception: Table 'cruds.prestador' doesn't exist in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `cr...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cr...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cr...')
+#3 C:\xampp\htdocs\cruds\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cr...', Array, false)
+#4 C:\xampp\htdocs\cruds\system\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\cruds\system\BaseModel.php(805): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\cruds\system\Model.php(749): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\cruds\app\Controllers\PrestadorController.php(51): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\PrestadorController->agregar()
+#9 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+#10 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2025-07-10 05:02:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'cruds.prestador' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cruds`.`prestador` (`nombre_compl`, `carrera`, `institucion`, `periodo`, `estado`) VALUES (:nombre_compl:, :carrera:, :institucion:, :periodo:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PrestadorController.php(51): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->agregar()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 05:03:28 --> mysqli_sql_exception: Table 'cruds.prestador' doesn't exist in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `cr...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cr...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cr...')
+#3 C:\xampp\htdocs\cruds\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cr...', Array, false)
+#4 C:\xampp\htdocs\cruds\system\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\cruds\system\BaseModel.php(805): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\cruds\system\Model.php(749): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\cruds\app\Controllers\PrestadorController.php(51): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\PrestadorController->agregar()
+#9 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+#10 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2025-07-10 05:03:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'cruds.prestador' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cruds`.`prestador` (`nombre_compl`, `carrera`, `institucion`, `periodo`, `estado`) VALUES (:nombre_compl:, :carrera:, :institucion:, :periodo:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PrestadorController.php(51): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->agregar()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 05:03:36 --> mysqli_sql_exception: Table 'cruds.prestador' doesn't exist in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `cr...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cr...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cr...')
+#3 C:\xampp\htdocs\cruds\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cr...', Array, false)
+#4 C:\xampp\htdocs\cruds\system\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\cruds\system\BaseModel.php(805): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\cruds\system\Model.php(749): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\cruds\app\Controllers\PrestadorController.php(51): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\PrestadorController->agregar()
+#9 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+#10 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2025-07-10 05:03:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'cruds.prestador' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cruds`.`prestador` (`nombre_compl`, `carrera`, `institucion`, `periodo`, `estado`) VALUES (:nombre_compl:, :carrera:, :institucion:, :periodo:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PrestadorController.php(51): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->agregar()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 05:03:39 --> mysqli_sql_exception: Table 'cruds.prestador' doesn't exist in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `cr...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cr...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cr...')
+#3 C:\xampp\htdocs\cruds\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cr...', Array, false)
+#4 C:\xampp\htdocs\cruds\system\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\cruds\system\BaseModel.php(805): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\cruds\system\Model.php(749): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\cruds\app\Controllers\PrestadorController.php(51): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\PrestadorController->agregar()
+#9 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+#10 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2025-07-10 05:03:39 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'cruds.prestador' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cruds`.`prestador` (`nombre_compl`, `carrera`, `institucion`, `periodo`, `estado`) VALUES (:nombre_compl:, :carrera:, :institucion:, :periodo:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PrestadorController.php(51): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->agregar()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 05:06:41 --> mysqli_sql_exception: Table 'cruds.prestador' doesn't exist in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `cr...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `cr...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `cr...')
+#3 C:\xampp\htdocs\cruds\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cr...', Array, false)
+#4 C:\xampp\htdocs\cruds\system\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\cruds\system\BaseModel.php(805): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\cruds\system\Model.php(749): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\cruds\app\Controllers\PrestadorController.php(51): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\PrestadorController->agregar()
+#9 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+#10 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2025-07-10 05:06:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'cruds.prestador' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `cruds`.`prestador` (`nombre_compl`, `carrera`, `institucion`, `periodo`, `estado`) VALUES (:nombre_compl:, :carrera:, :institucion:, :periodo:, :estado:)', [...], false)
+ 2 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PrestadorController.php(51): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->agregar()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 05:13:03 --> ErrorException: Undefined variable $data
+in APPPATH\Views\lex\lista.php on line 94.
+ 1 APPPATH\Views\lex\lista.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 94)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(28): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 05:13:06 --> ErrorException: Undefined array key "usuario"
+in APPPATH\Views\prestador\prestador-add.php on line 25.
+ 1 APPPATH\Views\prestador\prestador-add.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "usuario"', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\prestador\\prestador-add.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('prestador/prestador-add', [], true)
+ 5 APPPATH\Controllers\PrestadorController.php(117): view('prestador/prestador-add')
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\PrestadorController->formadd()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrestadorController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 05:13:08 --> ErrorException: Undefined variable $data
+in APPPATH\Views\lex\lista.php on line 94.
+ 1 APPPATH\Views\lex\lista.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 94)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(28): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-10 05:13:14 --> ErrorException: Undefined variable $data
+in APPPATH\Views\lex\lista.php on line 94.
+ 1 APPPATH\Views\lex\lista.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 94)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(28): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-07-10 05:23:44 --> mysqli_sql_exception: Table 'public.actividades' doesn't exist in C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\cruds\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pu...', 0)
+#1 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pu...')
+#2 C:\xampp\htdocs\cruds\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pu...')
+#3 C:\xampp\htdocs\cruds\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pu...', Array, false)
+#4 C:\xampp\htdocs\cruds\system\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\cruds\system\BaseModel.php(805): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\cruds\system\Model.php(749): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\cruds\app\Controllers\LexController.php(61): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\cruds\system\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+#9 C:\xampp\htdocs\cruds\system\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+#10 C:\xampp\htdocs\cruds\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\cruds\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2025-07-10 05:23:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'public.actividades' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `public`.`actividades` (`cve_modulo`, `id_grupo`, `id_componente`) VALUES (:cve_modulo:, :id_grupo:, :id_componente:)', [...], false)
+ 2 SYSTEMPATH\Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\LexController.php(61): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,185 @@
+CRITICAL - 2025-07-11 03:58:33 --> Error: Object of class App\Models\ActividadModel could not be converted to string
+in APPPATH\Controllers\LexController.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+ 2 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:00:15 --> Error: Object of class App\Models\ActividadModel could not be converted to string
+in APPPATH\Controllers\LexController.php on line 64.
+ 1 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+ 2 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:00:30 --> ArgumentCountError: Too few arguments to function App\Controllers\LexController::list2(), 0 passed in C:\xampp\htdocs\cruds\system\CodeIgniter.php on line 943 and exactly 1 expected
+in APPPATH\Controllers\LexController.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list2()
+ 2 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:03:00 --> CodeIgniter\HTTP\Exceptions\HTTPException: The route for "lenguas2" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 62.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('lenguas2')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LexController.php(66): redirect('lenguas2', 9)
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:03:37 --> CodeIgniter\HTTP\Exceptions\HTTPException: The route for "lenguas2" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 62.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('lenguas2')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LexController.php(66): redirect('lenguas2', 10)
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:03:39 --> CodeIgniter\HTTP\Exceptions\HTTPException: The route for "lenguas2" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 62.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('lenguas2')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LexController.php(66): redirect('lenguas2', 11)
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:04:14 --> CodeIgniter\HTTP\Exceptions\HTTPException: The route for "lenguas2" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 62.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('lenguas2')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LexController.php(66): redirect('lenguas2', 12)
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:04:22 --> CodeIgniter\HTTP\Exceptions\HTTPException: The route for "lenguas2" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 62.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('lenguas2')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LexController.php(66): redirect('lenguas2', 13)
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:14:36 --> ErrorException: Undefined variable $id_actividad
+in APPPATH\Views\lex\lista.php on line 98.
+ 1 APPPATH\Views\lex\lista.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_actividad', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 98)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(28): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:14:37 --> ErrorException: Undefined variable $id_actividad
+in APPPATH\Views\lex\lista.php on line 98.
+ 1 APPPATH\Views\lex\lista.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_actividad', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 98)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(28): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:14:38 --> ErrorException: Undefined variable $id_actividad
+in APPPATH\Views\lex\lista.php on line 98.
+ 1 APPPATH\Views\lex\lista.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_actividad', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 98)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(28): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:15:46 --> CodeIgniter\HTTP\Exceptions\HTTPException: The route for "lenguas2" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 62.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('lenguas2')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LexController.php(66): redirect('lenguas2', 14)
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:17:00 --> CodeIgniter\HTTP\Exceptions\HTTPException: The route for "vista2" cannot be found.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 62.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('vista2')
+ 2 SYSTEMPATH\Common.php(864): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\LexController.php(66): redirect('vista2', 15)
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregaract()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:25:36 --> ParseError: syntax error, unexpected double-quoted string "id_actividad", expecting "]"
+in APPPATH\Controllers\LexController.php on line 35.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\LexController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\LexController')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\LexController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:25:37 --> ParseError: syntax error, unexpected double-quoted string "id_actividad", expecting "]"
+in APPPATH\Controllers\LexController.php on line 35.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\cruds\\app\\Controllers\\LexController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\LexController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\LexController')
+ 4 SYSTEMPATH\CodeIgniter.php(901): class_exists('\\App\\Controllers\\LexController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 04:26:18 --> ArgumentCountError: Too few arguments to function App\Controllers\LexController::list(), 0 passed in C:\xampp\htdocs\cruds\system\CodeIgniter.php on line 943 and exactly 1 expected
+in APPPATH\Controllers\LexController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 2 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 14:23:08 --> ErrorException: Undefined variable $id_actividad
+in APPPATH\Views\lex\lista.php on line 104.
+ 1 APPPATH\Views\lex\lista.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_actividad', 'C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php', 104)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\cruds\\app\\Views\\lex\\lista.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('lex/lista', [], true)
+ 5 APPPATH\Controllers\LexController.php(28): view('lex/lista', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->list()
+ 7 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 14:49:52 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 14:50:27 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 14:50:53 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-07-11 14:52:02 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+in SYSTEMPATH\BaseModel.php on line 791.
+ 1 SYSTEMPATH\BaseModel.php(791): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\Model.php(749): CodeIgniter\BaseModel->insert([], true)
+ 3 APPPATH\Controllers\LexController.php(120): CodeIgniter\Model->insert([...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\LexController->agregarevent()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LexController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
